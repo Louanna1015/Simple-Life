@@ -1,0 +1,42 @@
+@import url("https://fonts.font.im/css?family=Acme|Dancing+Script|Dosis|EB+Garamond|Indie+Flower|Lobster|Merienda|Pacifico");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  background-color: lightyellow;
+	font-family: 'Merienda',serif;
+	font-size: 15px;
+}
+h1, h2 {
+	font-family: 'Dosis', sans-serif;
+	font-weight: 800;
+	font-size: 28px;
+}
+h3 {
+	font-family: 'Acme', sans-serif;
+	font-weight: 200;
+	font-size: 12px;
+}
+a {
+	text-decoration: none;
+}
+.sidebar {
+  position: fixed;
+  width: 150px;
+  left: 10px;
+  top: 10px;
+  bottom: 10px;
+}
+.sidebar ul {
+  list-style: none;
+  padding-left: 0px;
+}
+.img-nous {
+  width: 800px;
+  height:500px;
+  margin: 20px auto;
+}

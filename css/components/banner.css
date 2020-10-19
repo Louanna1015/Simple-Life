@@ -1,0 +1,21 @@
+.banner {
+	    background-image: url(../../images/simplelife.jpg);
+      	background-size: cover;
+	    background-position: center;
+        color: yellow;
+        padding: 150px 0px;
+        background-size: cover;
+        background-position: center;
+
+}
+.banner h1{
+	font-size :60PX;
+	font-weight: 800;
+}
+.banner h2 {
+	font-size: 30PX:
+	font-weight:lighter;
+	opacity: 0.9;
+	margin-bottom: 40px;
+
+	}
